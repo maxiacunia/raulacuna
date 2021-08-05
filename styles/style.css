@@ -1,0 +1,22 @@
+body {
+  margin: 0em;
+  font-family: "Noto Sans", sans-serif;
+}
+
+h1,
+h2,
+h3,
+h4,
+h4 {
+  font-family: "Noto Sans", sans-serif;
+}
+
+.cover {
+  height: 400px;
+  background-image: url(https://user-images.githubusercontent.com/73621042/127941677-dbda8fc6-d2ed-4694-8f5c-2bcf11c36901.jpg);
+  background-size: cover;
+  background-position: center;
+  color: white;
+  background-color: rgba(0, 0, 0, 0.5);
+  background-blend-mode: darken;
+}
